@@ -1,12 +1,12 @@
 {
   "package": {
-    "productName": "WeRead",
+    "productName": "DeeplWriter",
     "version": "1.0.0"
   },
   "tauri": {
     "windows": [
       {
-        "url": "https://weread.qq.com/",
+        "url": "https://www.deepl.com/write",
         "transparent": true,
         "fullscreen": false,
         "width": 1200,
